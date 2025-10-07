@@ -1,0 +1,25 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: #222;
+  margin: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #e9e4df;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.overview {
+  max-width: 1000px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+}
+
+footer {
+  background: #f1f1f1;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
